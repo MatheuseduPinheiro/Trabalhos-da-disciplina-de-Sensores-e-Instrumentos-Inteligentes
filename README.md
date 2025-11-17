@@ -18,7 +18,7 @@ Disciplina focada no uso de **sensores e instrumentos inteligentes** utilizando:
 
 **Objetivo:** Análise de dados do acelerômetro com médias móveis
 
-## Trabalho 2 — Coleta e Organização dos Dados com o Arduino Science Journal
+### Trabalho 2 — Coleta e Organização dos Dados com o Arduino Science Journal
 [🔗 Acessar Trabalho 2]https://github.com/MatheuseduPinheiro/Trabalhos-da-disciplina-de-Sensores-e-Instrumentos-Inteligentes/tree/main/Trabalho_2
 
 **Objetivo:** Coletar os dados utilizando o Arduino Science Journal

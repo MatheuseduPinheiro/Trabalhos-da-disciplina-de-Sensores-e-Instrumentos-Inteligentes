@@ -62,4 +62,28 @@ Desenvolva programas que utilizem (1) asizeof, (2) sys.getsizeof(), (3) memory-p
 
 
 
+### Trabalho 4 - Prática com dados de sensores: modelos de regressão, engenharia e seleção de atributos para dados de sensores
+
+
+1. O arquivo “solar.xlsx” contém os seguintes atributos: “Timestamp”, “Irrad” (irradiação solar), “PluAcum” (pluviometria), “T_MOD_2”, “T_MOD_1” (temperaturas dos módulos) e “Pot” (total gerado de energia elétrica). 
+
+    - a) Usando apenas informação de “Irrad” para estimar “Pot” (total gerado de energia elétrica). Responda:
+
+        a. Qual o MSE, MAE e R2 usando uma regressão linear como preditor?
+
+        b. Qual o MSE, MAE e R2 usando uma árvore de decisão como preditor?
+
+        c. Qual o MSE, MAE e R2 usando uma rede neural como preditor?
+
+    - b) Sobre o modelo desenvolvido na questão acima, qual o tempo de execução de cada método? 
+
+    - c) Apesente o histograma dos erros e a curva obtida pelos modelos.
+
+    - d) Qual a equação da regressão linear obtida? 
+
+    - e) Tomando por base o melhor modelo dos itens anteriores, adicione no preditor as informações de T_MOD. O preditor fica igual, melhora ou piora? Na sua opinião, por que isso acontece? 
+
+    - f) Considere um sistema de filtro sobre o sinal, usando média móvel (ou outra estratégia de interesse). Sugestão média móvel de 30 leituras. O que ocorre com o resultado? 
+
+    - g) Elimine metade das linhas (instâncias) do arquivo (por exemplo, aleatório ou linha sim, linha não). Rode novamente o modelo, o que ocorre? 
 

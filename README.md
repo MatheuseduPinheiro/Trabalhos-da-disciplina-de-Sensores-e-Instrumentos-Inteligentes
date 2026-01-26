@@ -75,15 +75,15 @@ Desenvolva programas que utilizem (1) asizeof, (2) sys.getsizeof(), (3) memory-p
 
         c. Qual o MSE, MAE e R2 usando uma rede neural como preditor?
 
-    - b) Sobre o modelo desenvolvido na questão acima, qual o tempo de execução de cada método? 
+    - 2) Sobre o modelo desenvolvido na questão acima, qual o tempo de execução de cada método? 
 
-    - c) Apesente o histograma dos erros e a curva obtida pelos modelos.
+    - 3) Apesente o histograma dos erros e a curva obtida pelos modelos.
 
-    - d) Qual a equação da regressão linear obtida? 
+    - 4) Qual a equação da regressão linear obtida? 
 
-    - e) Tomando por base o melhor modelo dos itens anteriores, adicione no preditor as informações de T_MOD. O preditor fica igual, melhora ou piora? Na sua opinião, por que isso acontece? 
+    - 5) Tomando por base o melhor modelo dos itens anteriores, adicione no preditor as informações de T_MOD. O preditor fica igual, melhora ou piora? Na sua opinião, por que isso acontece? 
 
-    - f) Considere um sistema de filtro sobre o sinal, usando média móvel (ou outra estratégia de interesse). Sugestão média móvel de 30 leituras. O que ocorre com o resultado? 
+    - 6) Considere um sistema de filtro sobre o sinal, usando média móvel (ou outra estratégia de interesse). Sugestão média móvel de 30 leituras. O que ocorre com o resultado? 
 
-    - g) Elimine metade das linhas (instâncias) do arquivo (por exemplo, aleatório ou linha sim, linha não). Rode novamente o modelo, o que ocorre? 
+    - 7) Elimine metade das linhas (instâncias) do arquivo (por exemplo, aleatório ou linha sim, linha não). Rode novamente o modelo, o que ocorre? 
 
